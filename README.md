@@ -120,7 +120,7 @@ A healthy response should look similar to
 4. Register your future gateway and get computation units (*CUs*) for 10 tSQD on it using [this page](https://app.subsquid.io/profile/gateways/add?testnet). Tips:
    - Gateway registration and tSQD locking are two separate actions. Do not forget to do both.
    - Leave the "Publicly available" switch disabled.
-   - The "Lock blocks duration" field lets you tune the length of time during which you'll be able to query the network, measured in blocks of Arbitrum Sepolia's L1 (that is, Ethereum Sepolia). The minumum is five hours, but you can opt to lock for longer if you intend to work on the quest over multiple days.
+   - The "Lock blocks duration" field lets you tune the length of time during which you'll be able to query the network, measured in blocks of Arbitrum Sepolia's L1 (that is, Ethereum Sepolia). The minimum is five hours, but you can opt to lock for longer if you intend to work on the quest over multiple days.
 
      | Time              | Blocks |
      |:-----------------:|:------:|
